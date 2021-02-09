@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap'); /* THIS IS EMBEDDING THE FONT ON THE SITE */
+
+h1, h2, h3{
+    font-family: 'Indie Flower', cursive; /*THIS IS DEPOLYING THE FONT */
+    font-weight: 100;
+    padding:0%;
+    text-align: center;
+}
+body{
+    text-justify: newspaper;
+}
